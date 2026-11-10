@@ -13,5 +13,5 @@ Save the code to a file named `atbash.py` and run it from your terminal:
 run using
 
 ```
-python atbash.py
+python atbashcipher.py
 ```
